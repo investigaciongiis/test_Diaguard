@@ -3,7 +3,6 @@
 > You can follow its development on branch [feature/multiplatform](https://github.com/Faltenreich/Diaguard/tree/feature/multiplatform) and pull request [#51](https://github.com/Faltenreich/Diaguard/pull/51).
 > Therefore development for the native version on this branch has been slowed down but pull requests will be accepted nonetheless.
 
-
 # Diaguard
 
 ![version](https://img.shields.io/badge/Release-3.15.1-478063.svg)
