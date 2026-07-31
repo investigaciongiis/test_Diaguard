@@ -121,7 +121,7 @@ dependencies {
     // Workaround: Versioning is currently broken
     // https://github.com/square/picasso/issues/2179
     // noinspection GradleDependency
-    implementation "com.squareup.picasso:picasso:2.8"
+    implementation "com.squareup.picasso:picasso:2.71828"
     implementation "com.opencsv:opencsv:5.8"
     implementation "com.github.PhilJay:MPAndroidChart:v3.1.0"
     implementation "com.fmsirvent:parallaxeverywhere:1.0.4"
